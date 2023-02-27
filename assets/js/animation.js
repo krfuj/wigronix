@@ -15,7 +15,7 @@
       }
       return defaults;
     };
-
+0727300691
     Util.prototype.isMobile = function(agent) {
       return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(agent);
     };
